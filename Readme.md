@@ -1,0 +1,1 @@
+Esta pasta será um dicionário de consulta para Python.
